@@ -1,0 +1,4 @@
+kernel="./testkernel"
+memory=32
+name="wo_console"
+on_crash='destroy'
